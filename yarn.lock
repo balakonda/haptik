@@ -3211,9 +3211,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001125, caniuse-lite@^1.0.30001274:
-  version "1.0.30001278"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001278.tgz#51cafc858df77d966b17f59b5839250b24417fff"
-  integrity sha512-mpF9KeH8u5cMoEmIic/cr7PNS+F5LWBk0t2ekGT60lFf0Wq+n9LspAj0g3P+o7DQhD3sUdlMln4YFAWhFYn9jg==
+  version "1.0.30001279"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001279.tgz#eb06818da481ef5096a3b3760f43e5382ed6b0ce"
+  integrity sha512-VfEHpzHEXj6/CxggTwSFoZBBYGQfQv9Cf42KPlO79sWXCD1QNKWKsKzFeWL7QpZHJQYAvocqV6Rty1yJMkqWLQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -4663,10 +4663,10 @@ eslint-plugin-node@^11.1.0:
     resolve "^1.10.1"
     semver "^6.1.0"
 
-eslint-plugin-prettier@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.0.0.tgz#8b99d1e4b8b24a762472b4567992023619cb98e0"
-  integrity sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==
+eslint-plugin-prettier@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.3.1.tgz#7079cfa2497078905011e6f82e8dd8453d1371b7"
+  integrity sha512-Rq3jkcFY8RYeQLgk2cCwuc0P7SEFwDravPhsJZOQ5N4YI4DSg50NyqJ/9gdZHzQlHf8MvafSesbNJCcP/FF6pQ==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
@@ -9467,7 +9467,7 @@ react-refresh@^0.8.3:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.8.3.tgz#721d4657672d400c5e3c75d063c4a85fb2d5d68f"
   integrity sha512-X8jZHc7nCMjaCqoU+V2I0cOhNW+QMBwSUkeXnTi8IPe6zaRWfn60ZzvFDZqWPfmSJfjub7dDW1SP0jaHWLu/hg==
 
-react-scripts@^4.0.3:
+react-scripts@4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-4.0.3.tgz#b1cafed7c3fa603e7628ba0f187787964cb5d345"
   integrity sha512-S5eO4vjUzUisvkIPB7jVsKtuH2HhWcASREYWHAQ1FP5HyCv3xgn+wpILAEWkmy+A+tTNbSZClhxjT3qz6g4L1A==
